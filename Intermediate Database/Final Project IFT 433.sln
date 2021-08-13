@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final Project IFT 433", "Final Project IFT 433\Final Project IFT 433.csproj", "{DDB3AC63-55C8-4C48-90F5-D43871A939C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB3AC63-55C8-4C48-90F5-D43871A939C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB3AC63-55C8-4C48-90F5-D43871A939C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB3AC63-55C8-4C48-90F5-D43871A939C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB3AC63-55C8-4C48-90F5-D43871A939C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497B40FA-D6DB-43B4-AA29-8563E2F7280E}
+	EndGlobalSection
+EndGlobal
